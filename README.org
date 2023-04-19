@@ -1,17 +1,17 @@
 #+title: AI before the fact: Pre-Visualisation as Sociotechnical Worlding
 
-
 * The future in colonised time?
 
 I want to first thanks the conference organisers--Susan, Fleur, and Jerneja--for accomodating my remote participation given the difficulties I faced in securing a visa to be present with you.
 
 For this presentation, I situate my analysis of AI before the fact within the current events of its ubiquity. From image generation, to note taking, to coding---if there is a software service, there has been AI launch for it within the past year. If one is to believe every futurist or AI-evangelist with a platform, AI is the future and the future is now. While the AI rush might suggest global technological advancement, some of us wait for decades for a sign of progress.
 
-If, as Ara Wilson ([[citeproc_bib_item_8][2016, p. 262]]) writes "Infrastructure is repurposed toward intimacies we cherish and toward those we don't" this stifled innovation in easing the migration process is a telling act signalling to the exclusion of migrants.
+If, as Ara Wilson (2016, p. 262) writes "Infrastructure is repurposed toward intimacies we cherish and toward those we don't" this stifled innovation in easing the migration process is a telling act signalling to the exclusion of migrants.
+
 
 * Representing AI
 
-For migrants, such as myself, left in the dust of innovation, the border is a biopolitical infrastructure with power over life. As an everyday practitioner of bordering and counter-bordering acts, I closely study the development of frontiers. With AI being both the future and the current moment, I encourage us to explore "when is AI?" in the same vein that Star and Ruhleder ([[citeproc_bib_item_7][1996]]) encourage us to explore when a tool becomes infrastructure. In questioning when a program has become AI, I am not asking that we dive into the semantics that ultimately us leads to the AI venn diagram. If anything, I am asking that we challenge the visual epistemology of this representation of AI. According to Johanna Drucker ([[citeproc_bib_item_1][2014, p. 20]]), "visual ordering and classification serve intellectual work". What intellectual work does this image do beyond communicating the nesting of Deep Learning in Machine Learning and Machine Learning in the broader context of AI?
+For migrants, such as myself, left in the dust of innovation, the border is a biopolitical infrastructure with power over life. As an everyday practitioner of bordering and counter-bordering acts, I closely study the development of frontiers. With AI being both the future and the current moment, I encourage us to explore "when is AI?" in the same vein that Star and Ruhleder (1996) encourage us to explore when a tool becomes infrastructure. In questioning when a program has become AI, I am not asking that we dive into the semantics that ultimately us leads to the AI venn diagram. If anything, I am asking that we challenge the visual epistemology of this representation of AI. According to Johanna Drucker (2014, p. 20), "visual ordering and classification serve intellectual work". What intellectual work does this image do beyond communicating the nesting of Deep Learning in Machine Learning and Machine Learning in the broader context of AI?
 
 [[file:assets/aivenn.svg]]
 
@@ -23,7 +23,7 @@ I am asking that we do not take charts for granted---that we reconfigure diagram
 
 * How to World Worlds
 
-Building on Heidegger's analysis of art as a means through which a world comes to being, Spivak ([[citeproc_bib_item_6][1985, pp. 253–4]]) writes
+Building on Heidegger's analysis of art as a means through which a world comes to being, Spivak (1985, pp. 253–4) writes
 
 #+begin_quote
 the agents of [the] cartographic transformation [that turn uninscribed earth to a colonial world...] are not only great [artists] like Vincent Van Gogh, but small unimportant folk [...] as well as the policymakers
@@ -44,31 +44,31 @@ An example of this transformation is streaming tool---an algorithm the UK Home O
 
 The Home Office used this algorithm from 2015 until its suspension in 2020, after Joint Council for the Welfare for Immigrants (a migrant's rights group) and Foxglove (a digital rights group) sued on the basis of racial discrimination under the 2010 Equality Act. It is important to note that the act includes nationality in its definition of race.
 
-** Stage 1
+* Stage 1
 
-In their legal argument against the Home Office, JCWI and Foxglove ([[citeproc_bib_item_9][“The joint council for the welfare of immigrants v,” no date]]) lay out a bit of the process of the streaming tool. The first stage in the three-stage process consists of a pre-screening using the Equality Act, Nationality Risk Assessment Ministerial Authorisation list. This list consists of nationalities that Home Office can legally apply higher scrutiny. The list is not released to avoid compromising immigration control ([[citeproc_bib_item_2][GOV.UK, 2022]]).
+In their legal argument against the Home Office, JCWI and Foxglove (GOV.UK, 2022).
 
 [[file:assets/stage1.svg]]
 
-** Stage 2A
+* Stage 2A
 
 Stage 2 used the Global Visa Risk Streaming data collected annually to add more features to measure risk. These features included the location, type of visa, and nationality of those that had breached immigration law.
 
 [[file:assets/stage2a.svg]]
 
-*** Stage 2B
+* Stage 2B
 
 Lower risk applications would be assigned the colour green and would not meet as much scrutiny as those assigned high risk with the colour red.
 
 [[file:assets/stage2b.svg]]
 
-** Stage 3A
+* Stage 3A
 
 In stage 3, a caseworker would follow a flowchart, answering yes or no to each question. Depending on the complexity of the application, the process might call for enrichment where further evidence is sought. At this stage, given that the applications assigned red will undergo more scrutiny, they are more likely to be rejected.
 
 [[file:assets/stage3a.svg]]
 
-*** Stage 3B
+* Stage 3B
 
 Even more complex applications would go through an executive officer who might make a final decision. It is important to note that the decision made here will be fed back into the system, as rejections increase risk rating.
 
@@ -76,9 +76,9 @@ So if you were a Nigerian, for instance, applying for a short term visa and some
 
 [[file:assets/stage3b.svg]]
 
-** Genealogy
+* Genealogy
 
-This feedback loop of high risk to rejection did not appear out of thin air. It mirrors legislation the UK government passed in the 1980s to restrict migration from Nigeria, Ghana, Bangladesh, Pakistan, and India. As part of its crackdown on migration from former colonies that had begun in the 1950s and 1960s, the UK government targeted nationals from these countries for having a higher rate of rejection at the border. Archival Hansards from the House of Lords the 1980s ([[citeproc_bib_item_5][1986]]) alludes to the worlding of AI I will soon return to.  A member of the house of lords asked:
+This feedback loop of high risk to rejection did not appear out of thin air. It mirrors legislation the UK government passed in the 1980s to restrict migration from Nigeria, Ghana, Bangladesh, Pakistan, and India. As part of its crackdown on migration from former colonies that had begun in the 1950s and 1960s, the UK government targeted nationals from these countries for having a higher rate of rejection at the border. Archival Hansards from the House of Lords the 1980s (1986) alludes to the worlding of AI I will soon return to.  A member of the house of lords asked:
 
 #+begin_quote
 […] Is not the increase in the number of passengers who have been refused admission as much a reflection of the strictness of the tests applied by immigration officers and the degree of suspiciousness that [the immigration officers] entertain of persons coming here from the five countries as it is of the preparedness of those passengers to evade the immigration rules? Could not the figures be interpreted either way?
@@ -88,19 +88,19 @@ In interpreting data on rejection as one of suspicious migrant as opposed to bia
 
 [[file:assets/reject.svg]]
 
-** Ceci n'est pas AI
+* Ceci n'est pas AI
 
 It might seem that I have fallen into the treachery of images---that I am equating diagrams of algorithms and flowchart sequences with actual programs or AI. It is for these reason that I call such proto-algorithms, algorithms and their visual representations AI before the fact. As an architect may draw up a blueprint as a plan and representation of an actual building, so do bureaucrats and programmers rely on flowcharts to plan out sequences.
 
-More pertinent to this discussion of AI and Machine Learning is the quote from former Immigration minister Carol Nokes ([[citeproc_bib_item_4][2019]]) when the MP Chi Onwurah asked if the streaming tool was Machine Learning or AI?
+More pertinent to this discussion of AI and Machine Learning is the quote from former Immigration minister Carol Nokes (2019) when the MP Chi Onwurah asked if the streaming tool was Machine Learning or AI?
 
 #+begin_quote
 The streaming tool which is operated by UKVI decision-making centres is an algorithm, but I should make it clear that it is not coding, it is not programming, it is not anything that involves machine learning, and, crucially, it is not automated decision making. It is, effectively, an automated flowchart where an application is subject to a number of basic yes/no questions to determine whether it is considered likely to be straightforward or possibly more complex. 
 #+end_quote
 
-To recall an earlier reference to Star and Ruhleder ([[citeproc_bib_item_7][1996]]), they ask that do not fixate on *what* is infrastructure but that we inquire about *when* a tool becomes infrastructure. In the same vein, I would ask to rephrase the question---not asking if the streaming tool is ML or AI---but *when* the streaming tool will become ML or AI?
+To recall an earlier reference to Star and Ruhleder (1996), they ask that do not fixate on *what* is infrastructure but that we inquire about *when* a tool becomes infrastructure. In the same vein, I would ask to rephrase the question---not asking if the streaming tool is ML or AI---but *when* the streaming tool will become ML or AI?
 
-At this point, it is important to note that the Home Office is still iterating on this tool. As of December 2021, on the web page providing information on the latest update on the tool, the Home office states it has an ([[citeproc_bib_item_3][GOV.UK, no date]]):
+At this point, it is important to note that the Home Office is still iterating on this tool. As of December 2021, on the web page providing information on the latest update on the tool, the Home office states it has an (GOV.UK, no date):
 
 #+begin_quote
 interim process which removes the previous reliance on nationality and all Global Visa Risk Streaming data
@@ -108,9 +108,10 @@ interim process which removes the previous reliance on nationality and all Globa
 
 In this updated version, the Home Office, outlines a three page flowchart that walks caseworkers through the process of routing an application. I have chosen to not focus on the actual flowchart they disseminated, but instead to create my own interpretation in graphical form including the social and historical context of the chart.
 
+
 * Worlding AI
 
-According to Drucker ([[citeproc_bib_item_1][2014, p. 94]]), flowcharts are an administrative tool that "make it easy impose the will of an administered culture on the complexities of human behaviors." They shrink complex interactions into workable activity. Flow charts are also a common tool for used in programming for representing the rules and sequences of an algorithm. Flow charts, according to Drucker are static visualisations in the sense that they are meant to represent an objective process from the point of view from a programmer or bureaucrat. Venn diagrams, on the other hand are a form of knowledge generator in that each object represented by a circle can be shifted and recombined to produce a different logic.
+According to Drucker (2014, p. 94), flowcharts are an administrative tool that "make it easy impose the will of an administered culture on the complexities of human behaviors." They shrink complex interactions into workable activity. Flow charts are also a common tool for used in programming for representing the rules and sequences of an algorithm. Flow charts, according to Drucker are static visualisations in the sense that they are meant to represent an objective process from the point of view from a programmer or bureaucrat. Venn diagrams, on the other hand are a form of knowledge generator in that each object represented by a circle can be shifted and recombined to produce a different logic.
 
 On this note, I would like to re-present the initial AI venn diagram this time, accounting for a core logic (the 1980's risk to rejection loop) and a history algorithmic production and representation (symbolised by the streaming tool). Both the streaming tool as a flowchart of an algorithm and its logic tracing back to 1980s loop are AI before the fact. They are the nucleus at the center of worlding of UK migration AI.
 
@@ -125,20 +126,20 @@ Thanks you for listening. I welcome any question via email.
 [[file:assets/toottoAI.svg]]
 
 * Bibliography
-<<citeproc_bib_item_1>>Drucker, J. (2014) /Graphesis: Visual Forms of Knowledge Production/. Cambridge, MA: Harvard University Press (Metalabprojects).
+Drucker, J. (2014) /Graphesis: Visual Forms of Knowledge Production/. Cambridge, MA: Harvard University Press (Metalabprojects).
 
-<<citeproc_bib_item_2>>GOV.UK (2022) “Home Office response to an inspection of the Home Office’s Network Consolidation Programme and the ‘onshoring’ of visa processing and decision making to the UK (accessible version),” /Gov.uk/ [Preprint]. https://www.gov.uk/government/publications/response-to-an-inspection-of-the-network-consolidation-programme/home-office-response-to-an-inspection-of-the-home-offices-network-consolidation-programme-and-the-onshoring-of-visa-processing-and-decision-making.
+GOV.UK (2022) “Home Office response to an inspection of the Home Office’s Network Consolidation Programme and the ‘onshoring’ of visa processing and decision making to the UK (accessible version),” /Gov.uk/ [Preprint]. https://www.gov.uk/government/publications/response-to-an-inspection-of-the-network-consolidation-programme/home-office-response-to-an-inspection-of-the-home-offices-network-consolidation-programme-and-the-onshoring-of-visa-processing-and-decision-making.
 
-<<citeproc_bib_item_3>>GOV.UK (no date) “Workflow routing – visitors: caseworker guidance,” /Gov.uk/ [Preprint]. https://www.gov.uk/government/publications/workflow-routing-visitor-short-term-student-and-overseas-domestic-worker.
+GOV.UK (no date) “Workflow routing – visitors: caseworker guidance,” /Gov.uk/ [Preprint]. https://www.gov.uk/government/publications/workflow-routing-visitor-short-term-student-and-overseas-domestic-worker.
 
-<<citeproc_bib_item_4>>HC Deb (2019), vol 662, pp. cc 316–326.
+HC Deb (2019), vol 662, pp. cc 316–326.
 
-<<citeproc_bib_item_5>>HL Deb (1986), vol 481, pp. cc 181–90.
+HL Deb (1986), vol 481, pp. cc 181–90.
 
-<<citeproc_bib_item_6>>Spivak, G.C. (1985) “The Rani of Sirmur: An Essay in Reading the Archives,” /History and theory/, 24(3), pp. 247–272. Available at: https://doi.org/10.2307/2505169.
+Spivak, G.C. (1985) “The Rani of Sirmur: An Essay in Reading the Archives,” /History and theory/, 24(3), pp. 247–272. Available at: https://doi.org/10.2307/2505169.
 
-<<citeproc_bib_item_7>>Star, S.L. and Ruhleder, K. (1996) “Steps toward an ecology of infrastructure: design and access for large information spaces,” /Information systems research/, 7(1), p. 25.
+Star, S.L. and Ruhleder, K. (1996) “Steps toward an ecology of infrastructure: design and access for large information spaces,” /Information systems research/, 7(1), p. 25.
 
-<<citeproc_bib_item_8>>Wilson, A. (2016) “The infrastructure of intimacy,” /Signs: Journal of women in culture and society/, 41(2), pp. 247–280. Available at: https://doi.org/10.1086/682919.
+Wilson, A. (2016) “The infrastructure of intimacy,” /Signs: Journal of women in culture and society/, 41(2), pp. 247–280. Available at: https://doi.org/10.1086/682919.
 
-<<citeproc_bib_item_9>>“The joint council for the welfare of immigrants v” (no date).
+“The joint council for the welfare of immigrants v” (no date).
