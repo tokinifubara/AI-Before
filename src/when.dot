@@ -1,0 +1,11 @@
+digraph nest {
+    bgcolor="transparent" pad=0.2
+    node [shape=box fixedsize=true fontname="Avenir" fontcolor="darkslateblue"]
+    x [width=2.5 height=3 pos="400, 80" label="\n\n\n\n\n\n\n\n\n\n\n            WHEN IS AI\l" color="darkslateblue"]
+    node [shape=egg fixedsize=true fontname="Avenir" fontcolor="thistle" style=filled]
+    {
+        a [width=2 height=2.3 pos="400,90" label="        AI\l\n\n\n\n\n\n\n"  color="mediumpurple"];
+        b [width=1.5 height=1.6 pos="400,65" label="       ?\l\n\n\n\n"  color="slateblue" ];
+        c [width=1 height=1 pos="400,45" label="       ?\l"  color="darkslateblue"];
+    }
+}

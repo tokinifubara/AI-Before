@@ -1,0 +1,10 @@
+digraph {
+    node [shape=egg color="slateblue" fontcolor="thistle" fontname="Avenir"  style=filled margin=0.2];
+    bgcolor="transparent"
+    subgraph cluster_a {
+        fontname="Avenir" shape=egg color="darkslateblue" fontcolor="darkslateblue" margin=15;
+        label="\nFEEDBACK LOOP:\nA GENEALOGY";
+        RISKY -> REJECT [color="darkslateblue"];
+        REJECT -> RISKY [color="darkslateblue"];
+    }
+}

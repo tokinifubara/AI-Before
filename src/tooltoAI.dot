@@ -1,0 +1,23 @@
+digraph nest {
+    bgcolor="transparent" pad=0.2
+    node [shape=box fixedsize=true fontname="Avenir" fontcolor="darkslateblue"]
+    x [width=3 height=3.75 pos="400, 80" label="\n\n\n\n\n\n\n\n\n\n\n\n\n\n                WHEN IS AI\l         [IN UK MIGRATION?]\l\n" color="darkslateblue"]
+    node [shape=egg fixedsize=true fontname="Avenir" fontcolor="thistle" style=filled]
+    {
+        a [width=2.2 height=2.4 pos="400,90" label="       AI\l\n\n\n\n\n\n\n\n"  color="mediumpurple"];
+        b [width=1.5 height=1.9 pos="400,73" label="\l\l   STREAMING\l        TOOL\l\n\n\n\n"  color="slateblue" ];
+        c [width=1 height=0.8 pos="400,38" label="\l   1980s\l   LOOP\l"  color="darkslateblue"];
+    }
+}
+
+digraph nest {
+    bgcolor="transparent" pad=0.2
+    node [shape=box fixedsize=true fontname="Avenir" fontcolor="darkslateblue"]
+    x [width=3 height=3.75 pos="400, 80" label="\n\n\n\n\n\n\n\n\n\n\n\n\n\n                WHEN IS AI\l         [IN UK MIGRATION?]\l\n" color="darkslateblue"]
+    node [shape=egg fixedsize=true fontname="Avenir" fontcolor="thistle" style=filled]
+    {
+        a [width=2.2 height=2.4 pos="400,90" label="       AI\l\n\n\n\n\n\n\n\n"  color="mediumpurple"];
+        b [width=1.5 height=1.9 pos="400,73" label="\l\l   STREAMING\l        TOOL\l\n\n\n\n"  color="slateblue" ];
+        c [width=1 height=0.8 pos="400,38" label="\l   1980s\l   LOOP\l"  color="darkslateblue"];
+    }
+}

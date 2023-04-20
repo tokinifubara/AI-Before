@@ -1,0 +1,25 @@
+digraph {
+    node [shape=egg fontcolor="thistle" fontname="Avenir" fontcolor="midnightblue" style=filled margin=0.2];
+    bgcolor="transparent"
+    subgraph cluster_a {
+        fontname="Avenir" shape=egg color="darkslateblue" fontcolor="darkslateblue" margin=15;
+        label="\nSTAGE 3\l";
+        node [fontcolor="thistle" color="darkslateblue"] {
+            g [color="teal" label="GREEN\l" fontcolor="thistle"]
+            r [color="tomato" label="   RED   \l" fontcolor="darkslateblue"]
+            node[color="slateblue"]{
+                e [label="         EXECUTIVE       \l           OFFICER\l" color="darkslateblue" shape=box style="filled, rounded"]
+                rej [label="                    REJECT?                    \l" shape=box style="rounded, filled"]
+                r -> e [color="tomato"];
+                g -> e [color="teal"];
+                node[color="mediumpurple"]
+                y [label="YES\l" color="tomato" fontcolor="darkslateblue"]
+                n [label="NO\l" color="teal" fontcolor="thistle"]
+                e -> rej [color="mediumslateblue"]
+                rej -> y [color="tomato"]
+                rej -> n  [color="teal"]
+            }
+            r -> y [dir=back color="tomato"]
+        }
+    }
+}

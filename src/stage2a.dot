@@ -1,0 +1,9 @@
+digraph {
+    node [shape=egg color="slateblue" fontcolor="thistle" fontname="Avenir"  style=filled margin=0.2];
+    bgcolor="transparent"
+    subgraph cluster_a {
+        fontname="Avenir" shape=egg color="darkslateblue" fontcolor="darkslateblue" margin=15;
+        label="\nSTAGE 2\l";
+        "MEASURE RISK\l" [color="darkslateblue"];
+    }
+}

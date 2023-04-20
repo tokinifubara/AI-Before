@@ -1,0 +1,22 @@
+digraph {
+    node [shape=egg fontcolor="thistle" fontname="Avenir" fontcolor="midnightblue" style=filled margin=0.2];
+    bgcolor="transparent"
+    subgraph cluster_a {
+        fontname="Avenir" shape=egg color="darkslateblue" fontcolor="darkslateblue" margin=15;
+        label="\nSTAGE 3\l";
+        node [fontcolor="thistle" color="darkslateblue"] {
+            "MEASURE RISK\l" -> r [color="tomato" ];
+            "MEASURE RISK\l" -> g [color="teal"];
+            g [color="teal" label="GREEN\l" fontcolor="thistle"]
+            r [color="tomato" label="   RED   \l" fontcolor="darkslateblue"]
+            sm [label="      LESS\lSCRUTINY\l"]
+            sp [label="    MORE\lSCRUTINY\l"]
+            g -> sm [color="teal"];
+            r -> sp [color="tomato"];
+            node[color="slateblue"]{
+                rej [label="                            REJECT?                            \l" shape=box style="rounded, filled"]
+                sp -> rej [color="tomato"]
+            }
+        }
+    }
+}
