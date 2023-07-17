@@ -1,19 +1,19 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-references:
-- type: conference
-authors:
-- family-names: "Fubara-Manuel"
-  given-names: "Irene"
-  orcid: "https://orcid.org/0000-0002-7373-5302"
-title: "AI before the fact: Pre-Visualisation as Sociotechnical Worlding"
-conference: 
-- name: Transforming Collections, Rewinding Internationalism
-  institution: Van Abbemuseum
-  city: Eindhoven
-  country: Netherlands
-  date-start: 2023-04-20
-  date-end: 2023-04-21
-version: 1.0.0
-date-released: 2023-04-21
-url: "https://github.com/tokinifubara/AI-Before"
+preferred-citation:
+  type: conference
+  authors:
+  - family-names: "Fubara-Manuel"
+    given-names: "Irene"
+    orcid: "https://orcid.org/0000-0002-7373-5302"
+  title: "AI before the fact: Pre-Visualisation as Sociotechnical Worlding"
+  conference: 
+  - name: Transforming Collections, Rewinding Internationalism
+    institution: Van Abbemuseum
+    city: Eindhoven
+    country: Netherlands
+    date-start: 2023-04-20
+    date-end: 2023-04-21
+  version: 1.0.0
+  date-released: 2023-04-21
+  url: "https://github.com/tokinifubara/AI-Before"
