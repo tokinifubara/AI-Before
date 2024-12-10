@@ -1,12 +1,5 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Fubara-Manuel
-    given-names: Irene
-    orcid: https://orcid.org/0000-0002-7373-5302
-title: AI before the fact
-version: 1.0.0
-date-released: 2023-04-21
 references:
   - type: conference-paper
     authors:
